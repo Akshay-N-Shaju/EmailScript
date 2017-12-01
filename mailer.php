@@ -6,7 +6,7 @@ include('Mail/mime.php');
 
 // Constructing the email
 $sender = "me@domain.com";
-$recipient = "somebody@home.com";
+$recipient = mail@akshaynshaju.com";
 $subject = "Information requested";
 // smtp mail server - get from your hosts
 $host = "mail.server.com";
