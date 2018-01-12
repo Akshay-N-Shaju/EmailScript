@@ -13,8 +13,7 @@ $host = "mail.server.com";
 $username = "me@domain.com";
 // Sender email address password
 $password = "123456";
-$crlf = "\
-";
+$crlf = "\";
 $headers = array(
 	'From'          => $sender,
 	'Return-Path'   => $sender,
