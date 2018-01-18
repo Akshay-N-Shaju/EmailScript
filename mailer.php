@@ -4,6 +4,7 @@ $message = "Your message including any html";
 include('Mail.php');
 include('Mail/mime.php');
 
+
 // Constructing the email
 $sender = "me@domain.com";
 $recipient = mail@akshaynshaju.com";
